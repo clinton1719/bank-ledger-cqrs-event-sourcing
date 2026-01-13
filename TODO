@@ -1,0 +1,2 @@
+Make sure everything is idempotent
+Use DynamoDB streams
